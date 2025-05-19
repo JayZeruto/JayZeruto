@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JayZeruto
-- 👀 I’m interested in ...Witchcraft, horro films, dolls, animals, coding, ethical hacking
+- 👀 I’m interested in ...Witchcraft, horror films, dolls, animals, coding, ethical hacking and cooking
 - 🌱 I’m currently learning ...cybersecurity at FUll Sail University 
 - 💞️ I’m looking to collaborate on ...I'm not sure yet I'm still new to this stuff
 - 📫 How to reach me ...jasminezeruto@gmail.com
