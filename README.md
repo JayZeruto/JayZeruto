@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...I'm not sure yet I'm still new to this stuff
 - 📫 How to reach me ...jasminezeruto@gmail.com
 - 😄 Pronouns: ...she/her
-- ⚡ Fun fact: ...I'm just your average 25 year old women trying to survive life
+- ⚡ Fun fact: ...I have a Shiba name Kenji who loves to make new friends
 
 <!---
 JayZeruto/JayZeruto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
