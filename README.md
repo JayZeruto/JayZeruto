@@ -8,7 +8,8 @@ I am a dedicated Cybersecurity student with a background in IT Support and a pas
 ### 🚀 Technical Skills & Tools
 * **Languages/Frameworks:** Python, Bash Scripting, Markdown
 * **Tools:** VMware Workstation Pro, Proxmox, Docker, Samba
-* **Focus Areas:** Digital Forensics, Ethical Hacking, Network Administration, Purple Team, AI
+* **Primary Focus Areas:** Digital Forensics (DFIR) & Purple Teaming
+* **Core Technicals:** Network & Linux Administration, Ethical Hacking, AI Integration
 
 ### 📚 Education & Certifications
 * **B.S. Cybersecurity** | Full Sail University (In Progress)
