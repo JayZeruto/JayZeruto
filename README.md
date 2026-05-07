@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @JayZeruto
-- 👀 I’m interested in ...Witchcraft, horror films, dolls, animals, coding, ethical hacking and cooking
-- 🌱 I’m currently learning ...cybersecurity at FUll Sail University 
-- 💞️ I’m looking to collaborate on ...I'm not sure yet I'm still new to this stuff
-- 📫 How to reach me ...jasminezeruto@gmail.com
-- 😄 Pronouns: ...she/her
-- ⚡ Fun fact: ...I have a Shiba name Kenji who loves to make new friends
+# 👋 Hi, I'm Jasmine Zeruto
 
-<!---
-JayZeruto/JayZeruto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛡️ Aspiring Digital Forensics Analyst | Cybersecurity Student
+I am a dedicated Cybersecurity student with a background in IT Support and a passion for **Purple Teaming**. I enjoy bridging the gap between offensive security and defensive strategy.
+
+---
+
+### 🚀 Technical Skills & Tools
+* **Languages/Frameworks:** Python, Bash Scripting, Markdown
+* **Tools:** VMware Workstation Pro, Proxmox, Docker, Samba
+* **Focus Areas:** Digital Forensics, Ethical Hacking, Network Administration, Purple Team, AI
+
+### 📚 Education & Certifications
+* **B.S. Cybersecurity** | Full Sail University (In Progress)
+* **A.S. Information Technology** | Full Sail University ( Completed May 2026)
+* **In Pursuit of:** CompTIA Security+, Network+, Cloud+
+
+### 🛠️ Featured Projects
+
+
+---
+
+### 📫 Connect with me:
+* **LinkedIn:** [Jasmine Zeruto] (https://www.linkedin.com/in/jasmine-zeruto-56030a242/)
+* **Email:** jasminezeruto@gmail.com
+
+⚡ **Fun Fact:** I’m a Shiba Inu owner 🐕 and a fan of Criminal drama shows.
